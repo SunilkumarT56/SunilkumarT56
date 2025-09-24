@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Sunilkumar T  
+# Hi, I'm Sunilkumar T  
 
-🚀 Passionate **Computer Science Engineering student** at PSG Tech, aspiring to become a **Google-level Full Stack Developer** and build impactful AI-based educational products.  
+ Passionate **Computer Science Engineering student** at PSG Tech
 
 ---
 
