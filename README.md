@@ -33,7 +33,7 @@
 ### 🛠️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)             
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)  
 
 ### 🧩 Libraries / Services  
@@ -47,11 +47,5 @@
 
 
 
-## 🎯 Current Focus  
-- 🔭 Building **Full Stack projects** with MERN + Django  
-- 📚 Exploring **AI/ML** for future ed-tech app  
-- 💡 Practicing **Data Structures & Algorithms** for product-based company interviews  
-
----
 
 ✨ *“Code. Learn. Build. Repeat.”* ✨  
