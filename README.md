@@ -8,10 +8,9 @@
 
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+
 
 ### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)  
@@ -26,8 +25,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=flat)  
 
 ### 💻 Programming Languages  
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)    
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
