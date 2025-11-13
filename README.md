@@ -44,6 +44,7 @@ Passionate **Computer Science Engineering student** at PSG Tech
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?logo=pm2&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
 ### 🧩 Libraries / Services  
 ![Clerk](https://img.shields.io/badge/-Clerk-3B82F6?logo=clerk&logoColor=white&style=flat) 
@@ -57,6 +58,10 @@ Passionate **Computer Science Engineering student** at PSG Tech
 ![Render](https://img.shields.io/badge/-Render-FF3E00?logo=render&logoColor=white&style=flat)
 ![Webhooks](https://img.shields.io/badge/-Webhooks-000000?logo=githubactions&logoColor=white&style=flat)
 ![Reverse Proxy](https://img.shields.io/badge/-Reverse%20Proxy-006699?style=flat)
+![Google Pub/Sub](https://img.shields.io/badge/-Google%20Pub%2FSub-4285F4?logo=googlecloud&logoColor=white&style=flat)
+![Google Classroom API](https://img.shields.io/badge/-Google%20Classroom-1A73E8?logo=googleclassroom&logoColor=white&style=flat)
+![Notion API](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
+![Google Calendar API](https://img.shields.io/badge/-Google%20Calendar-4285F4?logo=googlecalendar&logoColor=white&style=flat)
 
 ---
 
