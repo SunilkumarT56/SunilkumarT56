@@ -39,7 +39,6 @@ Passionate **Computer Science Engineering student** at PSG Tech
 ### 🧩 Libraries / Services  
 ![Clerk](https://img.shields.io/badge/-Clerk-3B82F6?logo=clerk&logoColor=white&style=flat) 
 ![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=flat) 
-![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white&style=flat) 
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat) 
 ![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?logo=razorpay&logoColor=3395FF&style=flat)  
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
