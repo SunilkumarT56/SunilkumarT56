@@ -46,7 +46,6 @@ Passionate **Computer Science Engineering student** at PSG Tech
 ![Reverse Proxy](https://img.shields.io/badge/-Reverse%20Proxy-006699?style=flat)
 ![Google Pub/Sub](https://img.shields.io/badge/-Google%20Pub%2FSub-4285F4?logo=googlecloud&logoColor=white&style=flat)
 ![Google Classroom API](https://img.shields.io/badge/-Google%20Classroom-1A73E8?logo=googleclassroom&logoColor=white&style=flat)
-![Notion API](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white&style=flat)
 ![Google Calendar API](https://img.shields.io/badge/-Google%20Calendar-4285F4?logo=googlecalendar&logoColor=white&style=flat)
 
 ---
