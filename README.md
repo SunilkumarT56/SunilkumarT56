@@ -7,7 +7,7 @@ Passionate **Computer Science Engineering student** at PSG Tech
 ## 🛠️ Tech Stack  
 
 ### ⚙️ Backend  
-
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) 
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) 
