@@ -13,6 +13,7 @@ Passionate **Computer Science Engineering student** at PSG Tech
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
+![Motia](https://img.shields.io/badge/-Motia-7C3AED?style=flat&logo=server&logoColor=white)
 
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) 
