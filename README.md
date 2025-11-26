@@ -50,5 +50,11 @@ Passionate **Computer Science Engineering student** at PSG Tech
 ![Google Calendar API](https://img.shields.io/badge/-Google%20Calendar-4285F4?logo=googlecalendar&logoColor=white&style=flat)
 
 ---
+<img width="1020" height="417" alt="websockets" src="https://github.com/user-attachments/assets/b51e0c0a-9077-40af-acb6-8a51a0b3cced" />
+<img width="10772" height="10272" alt="Vercel-clone" src="https://github.com/user-attachments/assets/7341536c-20d9-4fb7-83b6-93189d8aa739" />
+<img width="1260" height="932" alt="dockerss" src="https://github.com/user-attachments/assets/ae11117c-f288-4395-87c1-ce4e5d80a799" />
+<img width="3316" height="2300" alt="compiler-design" src="https://github.com/user-attachments/assets/cfb4c73d-46fa-4c2c-9a13-7006c99787e9" />
+
+
 
 ✨ *“Code. Learn. Build. Repeat.”* ✨
