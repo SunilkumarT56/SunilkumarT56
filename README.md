@@ -3,7 +3,7 @@
 <img width="1853" height="941" alt="resume_link_tracker" src="https://github.com/user-attachments/assets/5f3b34d0-768a-444d-936b-c87a1cb16f23" />
 <div>
 
-# ADK CLI (adk-cli)
+ADK CLI (adk-cli)
 
 ADK CLI is a lightweight command-tracking tool designed for developers who want to log and analyze their terminal usage.  
 It captures every terminal command and sends it to a backend endpoint (AWS Lambda + Supabase Postgres) for analytics and storage.
@@ -79,6 +79,5 @@ Fork for personal experiments if needed.
 
 📬 Contact  
 
-For issues or feature suggestions, contact the developer.
+For issues or feature suggestions, contact me.
 </div>
-
