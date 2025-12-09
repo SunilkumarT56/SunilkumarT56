@@ -39,6 +39,9 @@ manual reload
 ```sh
 source ~/.zshrc
 ```
+<div>
+  
+
 ⚙️ Requirements  
 • macOS  
 • zsh shell  
@@ -77,5 +80,5 @@ Fork for personal experiments if needed.
 📬 Contact  
 
 For issues or feature suggestions, contact the developer.
-
+</div>
 
