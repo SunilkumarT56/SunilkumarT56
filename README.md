@@ -39,45 +39,4 @@ manual reload
 ```sh
 source ~/.zshrc
 ```
-<div>
-  
 
-⚙️ Requirements  
-• macOS  
-• zsh shell  
-• Node.js (v18+)  
-• Global npm installation enabled  
-
-Support for Windows & Linux is under progress.
-
-⸻
-
-⚠️ Disclaimer  
-
-ADK CLI is under active development.  
-Expect breaking changes and incomplete features.  
-Use only for personal development/testing.
-
-⸻
-
-💡 Upcoming Goals  
-• Dashboard for analytics  
-• Productivity scoring  
-• Command insights  
-• Multi-OS support  
-• Automatic setup for all shells  
-• Error tracking + suggestions  
-
-⸻
-
-🤝 Contributing  
-
-Not accepting contributions yet.  
-Fork for personal experiments if needed.
-
-⸻
-
-📬 Contact  
-
-For issues or feature suggestions, contact me.
-</div>
