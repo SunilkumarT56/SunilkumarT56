@@ -1,12 +1,4 @@
-<img width="4920" height="4080" alt="System" src="https://github.com/user-attachments/assets/16620d91-6be7-434e-95fb-6db9dc0d71b2" />
-<img width="1920" height="1080" alt="DEsys" src="https://github.com/user-attachments/assets/80fb7e6a-13ee-48f6-a639-3b9cfe16ad53" />
-<img width="1853" height="941" alt="resume_link_tracker" src="https://github.com/user-attachments/assets/5f3b34d0-768a-444d-936b-c87a1cb16f23" />
-
-<br/>
 <div>
-
-
-
 ADK CLI is a lightweight command-tracking tool designed for developers who want to log and analyze their terminal usage.  
 It captures every terminal command and sends it to a backend endpoint (AWS Lambda + Supabase Postgres) for analytics and storage.
 
@@ -42,5 +34,15 @@ manual reload
 source ~/.zshrc
 ```
 </div>
+
+<img width="4920" height="4080" alt="System" src="https://github.com/user-attachments/assets/16620d91-6be7-434e-95fb-6db9dc0d71b2" />
+<img width="1920" height="1080" alt="DEsys" src="https://github.com/user-attachments/assets/80fb7e6a-13ee-48f6-a639-3b9cfe16ad53" />
+<img width="1853" height="941" alt="resume_link_tracker" src="https://github.com/user-attachments/assets/5f3b34d0-768a-444d-936b-c87a1cb16f23" />
+
+<br/>
+
+
+
+
 
 
