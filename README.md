@@ -34,4 +34,9 @@ npm install -g adk-cli
 ```
 ```sh
 adk init
+```
+manual reload
+```sh
+source ~/.zshrc
+```
 
