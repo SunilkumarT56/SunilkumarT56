@@ -31,5 +31,7 @@ More features coming soon.
 
 ```sh
 npm install -g adk-cli
-
+```
+```sh
+adk init
 
