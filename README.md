@@ -2,13 +2,13 @@
 ADK CLI is a lightweight command-tracking tool designed for developers who want to log and analyze their terminal usage.  
 It captures every terminal command and sends it to a backend endpoint (AWS Lambda + Supabase Postgres) for analytics and storage.
 
-⚠️ **Note:**  
+ **Note:**  
 ADK CLI is currently **under development** and available **only for macOS (zsh)** users.  
 Windows and Linux support will be added soon.
 
 ---
 
-## 🚀 Features (WIP)
+##  Features (WIP)
 
 - Tracks every terminal command you execute  
 - Sends command metadata to your backend (Lambda / API)  
@@ -21,7 +21,7 @@ More features coming soon.
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```sh
 npm install -g adk-cli
@@ -32,6 +32,8 @@ adk init
 manual reload
 ```sh
 source ~/.zshrc
+```
+</div>
 ```
 </div>
 
