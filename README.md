@@ -26,7 +26,7 @@ These tools collect strictly development-related signals and stream them into a 
 
 ---
 
-## 🧩 1. ADK Telemetry — VS Code Developer Activity Engine
+## 🧩 1. ADK Telemetry — VS Code Developer Activity Engine (adk-telemetry)
 
 Tracks editor-level behavior with high precision:
 
