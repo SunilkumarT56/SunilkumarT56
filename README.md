@@ -1,4 +1,4 @@
-# 🌐 ADK-Graph — Unified Developer Telemetry Platform  
+# 🌐 ADK-Graph — Unified Developer Telemetry Platform  (under working)
 ### _VS Code Telemetry + Terminal Telemetry + Browser Insights (Coming Soon)_
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
