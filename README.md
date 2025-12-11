@@ -1,4 +1,72 @@
+# ADK Telemetry — Developer Activity Engine for ADK-Graph (vscode telemetry)
+
+![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
+![VS Code](https://img.shields.io/badge/VSCode-Extension-blue)
+![Telemetry](https://img.shields.io/badge/Telemetry-Active-green)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+ADK Telemetry is a lightweight Visual Studio Code extension that captures **developer activity signals** and streams them into the **ADK-Graph** intelligence engine.  
+It helps analyze coding patterns, productivity flow, debugging behavior, and development habits by collecting strictly development-related events.
+
+This extension forms one of the core data streams powering **ADK-Graph**, alongside ZSH terminal telemetry and browser developer-activity tracking.
+
+---
+
+## 🚀 Features
+
+### ✔ Real-time VS Code Event Tracking
+- File open, close, save  
+- Text edits & content changes  
+- Active editor & focus switches  
+- Cursor movement & selection changes  
+- Diagnostics (errors, warnings)  
+- File creation, deletion, renaming  
+- Workspace configuration changes  
+- Window focus state  
+
+### ✔ Developer Behavior Insights (via backend)
+- Coding session length  
+- Error → fix timeline  
+- Productivity heatmap  
+- Flow state & interruption patterns  
+- Project complexity evolution  
+
+### ✔ Ultra-Light Event Payload  
+All telemetry is optimized for:
+- minimal size  
+- low network overhead  
+- non-blocking async sending  
+- privacy-friendly storage  
+
+---
+
+## 🧠 Why ADK Telemetry Exists
+
+Traditional tools measure:
+- Git commits  
+- Build times  
+- Productivity by LOC  
+
+But **real developer behavior** happens inside the editor:
+
+- How often you edit before saving  
+- How long an error persists  
+- How many times you switch files  
+- How you navigate code  
+- How you react to compiler issues  
+
+**ADK Telemetry** captures these micro-signals to build a **Developer Knowledge Graph**, enabling high-level insights such as:
+
+- Why productivity dropped on a specific day  
+- Which files cause the most errors  
+- How long you spent debugging something  
+- Which coding sessions were most “flow-heavy”  
+- What patterns precede successful commits  
+
+---
+
 <div>
+# adk-cli — Developer Activity Engine for ADK-Graph (terminal telemetry)
 ADK CLI is a lightweight command-tracking tool designed for developers who want to log and analyze their terminal usage.  
 It captures every terminal command and sends it to a backend endpoint (AWS Lambda + Supabase Postgres) for analytics and storage.
 
