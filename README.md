@@ -75,6 +75,74 @@ npm install -g adk-cli
 adk init
 source ~/.zshrc   # manual reload if needed
 ```
+# ADK GitHub Telemetry — Automated Webhook Installer for ADK-Graph
+
+```
+~/.adk/github.json
+```
+
+```json
+{
+  "userId": "adk-92831asd1",
+  "accessToken": "ghp_xxxxx",
+  "repos": ["sunil/project1", "sunil/project2"],
+  "webhookUrl": "https://your-backend-url/github-webhook"
+}
+```
+
+---
+
+## 🧠 Purpose — Why This Exists
+
+GitHub is where your **final work** appears.But ADK-Graph combines signals from:
+
+- Editor
+- Terminal
+- Browser
+- GitHub
+
+GitHub events help measure:
+
+- Commit patterns
+- Deployment frequency
+- Issue workflow
+- Pull Request cycle
+- DevOps behavior
+- Review latency
+- Branch strategy discipline
+
+With all four signals combined, ADK-Graph builds a **Developer Knowledge Graph** that reveals:
+
+- Your productivity flow
+- Debugging style
+- Context switching behavior
+- Skill progression over time
+- Project-level complexity evolution
+
+---
+
+## 🔧 Tech Stack
+
+- Node.js 18+
+- Axios (GitHub API calls)
+- Inquirer + inquirer-select-pro
+- Ora (loading indicators)
+- fs-extra
+- ADK Local Identity File (`~/.adk/user.json`)
+
+---
+
+## 📝 License
+
+MIT © 2025 Sunil Kumar
+
+---
+
+## ⭐ Support
+
+If you like this project, kindly star ⭐ the repo — it motivates development!
+
+---
 <img width="4920" height="4080" alt="System" src="https://github.com/user-attachments/assets/16620d91-6be7-434e-95fb-6db9dc0d71b2" />
 <img width="1920" height="1080" alt="DEsys" src="https://github.com/user-attachments/assets/80fb7e6a-13ee-48f6-a639-3b9cfe16ad53" />
 <img width="1853" height="941" alt="resume_link_tracker" src="https://github.com/user-attachments/assets/5f3b34d0-768a-444d-936b-c87a1cb16f23" />
