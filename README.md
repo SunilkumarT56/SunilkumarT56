@@ -10,11 +10,29 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RESP-Protocol-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="RESP" height="30" />
 </div>
+
+<br />
+<br />
+
+<div align="center">
+  <h3>⚡ MiniRedis</h3>
+  <p>
+    A <strong>Redis-inspired in-memory data store</strong> built from scratch using
+    <strong>TypeScript</strong> and low-level <strong>TCP networking</strong>.
+    <br />
+    Designed to explore how Redis works internally — from the
+    <strong>RESP protocol</strong> to command parsing, concurrency, and performance-critical design.
+  </p>
+</div>
+
+<br />
+
 <div align="center">
   <a href="https://github.com/SunilkumarT56/redis-server" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" alt="GitHub Repo" />
   </a>
 </div>
+<br/>
 <img width="1710" height="1112" alt="Screenshot 2026-01-02 at 1 58 01 AM" src="https://github.com/user-attachments/assets/39826bde-1b27-4ff6-b7dd-5852b084396f" />
 
 
