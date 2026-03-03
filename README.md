@@ -1,31 +1,68 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis Logo" width="120" />
-  <br />
-  <br />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js (node:net)" width="30" height="30" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="30" height="30" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/RESP-Protocol-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="RESP" height="30" />
+
+# 🚀 Sunilkumar T
+### Software Engineer in Progress | DSA • Full Stack • System Design
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Problem+Solver;Building+Scalable+Systems;Future+Product+Engineer" />
+
 </div>
 
-<br />
-<br />
+---
+
+## 🧠 LeetCode Analytics
 
 <div align="center">
-  <h3>⚡ MiniRedis</h3>
-  <p>
-    A <strong>Redis-inspired in-memory data store</strong> built from scratch using
-    <strong>TypeScript</strong> and low-level <strong>TCP networking</strong>.
-    <br />
-    Designed to explore how Redis works internally — from the
-    <strong>RESP protocol</strong> to command parsing, concurrency, and performance-critical design.
-  </p>
+
+<img src="https://leetcard.jacoblin.cool/Sunilkumar_T?theme=dark&font=Baloo&ext=contest" width="500"/>
+
 </div>
 
-<br />
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,flask,mongodb,git,github,linux" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+- Advanced Data Structures
+- System Design Fundamentals
+- Scalable Backend Development
+
+---
+
+<div align="center">
+
+⭐ Building every day.  
+⚡ Competing. Learning. Improving.
+
+</div>
 
 <div align="center">
   <a href="https://github.com/SunilkumarT56/redis-server" target="_blank">
